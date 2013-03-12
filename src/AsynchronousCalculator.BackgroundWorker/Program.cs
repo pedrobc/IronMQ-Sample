@@ -16,7 +16,7 @@ namespace AsynchronousCalculator.BackgroundWorker
 				var value = _calculator.DequeueOperation();
 				if (value == null)
 				{
-					Thread.Sleep(10 * 1000);
+					Thread.Sleep(1000);
 					continue;
 				}
 

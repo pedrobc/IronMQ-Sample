@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynchronousCalculator.Web", "AsynchronousCalculator.Web\AsynchronousCalculator.Web.csproj", "{24BAE666-EBDB-4996-8D09-4F63B671C837}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynchronousCalculator.BackgroundWorker", "AsynchronousCalculator.BackgroundWorker\AsynchronousCalculator.BackgroundWorker.csproj", "{A9F4FAB7-1B80-42D3-9C7E-62896758FD6D}"
